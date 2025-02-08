@@ -1,11 +1,14 @@
 # Projects for Home and Homestead 🌱 Automation 
 
 ## Small Scale Farming Automation
-https://tinkydan.github.io/tinkydan/SSfarm/
+ [Farming Related Projects](https://tinkydan.github.io/tinkydan/SSfarm/)
 ## Livestream Hardware Projects
-https://tinkydan.github.io/tinkydan/Live/
+[Livestream Tools](https://tinkydan.github.io/tinkydan/Live/)
 ## Miscellaneous
-https://tinkydan.github.io/tinkydan/misc/
+[Miscellaneous](https://tinkydan.github.io/tinkydan/misc/)
+
+
+
 <!--
 **tinkydan/tinkydan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
